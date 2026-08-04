@@ -1,0 +1,12 @@
+name: ギフティングLP
+client: null
+summary: Reddyサイトから移管されたギフティング用ランディングページ。HTML構造を再構築し、GTMとGA4を導入済み。
+status: 完了
+next_actions: []
+tags:
+  - LP
+  - HTML
+  - GA4
+  - GTM
+updated: 2026-08-04
+generated_by: gemini-2.5-flash (要確認)
